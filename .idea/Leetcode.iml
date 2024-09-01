@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/.idea/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/FindNumberswithEvenNumberofDigits" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/MaxConsecutiveOnes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/SquaresofaSortedArray" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
