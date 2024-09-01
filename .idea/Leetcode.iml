@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/.idea/MaxConsecutiveOnes" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/.idea/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/FindNumberswithEvenNumberofDigits" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/MaxConsecutiveOnes" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
